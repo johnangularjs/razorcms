@@ -96,3 +96,6 @@ Questions?, ideas?, bundles of cash you want to give me?...
 Well in due course, the razorCMS site will be updated, in due course the system will get more functionality/extensions and in due course support and documentation will be supplied. Please be patient, one man bands ar hard to run, it will come with time, as I find it.
 
 If you want to help out, by me an Aston Martin, then you can contact me through the website www.razorcms.co.uk (for now we are on v3.razorcms.co.uk but this will change soon).
+
+<a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training">Angularjs Training</a>
+<a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Course">Angular.js Course</a>
